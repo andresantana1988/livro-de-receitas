@@ -6,3 +6,4 @@ Olá ! Bem vindo ao meu livro de receitas :wave:
 - Lasanha
 - Pudim
 - Bolo de Chocolate
+- Torta de maça
